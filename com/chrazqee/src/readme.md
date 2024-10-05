@@ -28,3 +28,5 @@ Pet pet = new Dog();
 ```
 Dog dog = (Dog) pet;
 ```
+
+# 抽象类和抽象方法
